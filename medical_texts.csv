@@ -1,0 +1,1001 @@
+text,label
+"Patient presents with increased thirst, fatigue, blurred vision",Diabetes
+"Patient presents with shortness of breath, chest tightness, coughing, wheezing",Asthma
+Patient presents with fatigue,Diabetes
+"Patient presents with wheezing, coughing, shortness of breath, chest tightness",Asthma
+"Patient presents with shortness of breath, wheezing, coughing, chest tightness",Asthma
+Patient presents with severe headache,Migraine
+Patient presents with nosebleeds,Hypertension
+Patient presents with frequent urination,Diabetes
+Patient presents with nosebleeds,Hypertension
+Patient presents with shortness of breath,Hypertension
+"Patient presents with headache, shortness of breath, nosebleeds, high blood pressure",Hypertension
+Patient presents with shortness of breath,Asthma
+"Patient presents with frequent urination, increased thirst",Diabetes
+"Patient presents with nausea, sensitivity to light",Migraine
+"Patient presents with wheezing, chest tightness, coughing, shortness of breath",Asthma
+"Patient presents with frequent urination, blurred vision, increased thirst, fatigue",Diabetes
+"Patient presents with nausea, severe headache",Migraine
+"Patient presents with vision changes, nausea, severe headache",Migraine
+"Patient presents with frequent urination, increased thirst",Diabetes
+"Patient presents with increased thirst, blurred vision",Diabetes
+"Patient presents with chest tightness, coughing",Asthma
+"Patient presents with chest tightness, coughing, wheezing, shortness of breath",Asthma
+"Patient presents with increased thirst, blurred vision",Diabetes
+"Patient presents with nausea, severe headache",Migraine
+"Patient presents with fatigue, frequent urination",Diabetes
+"Patient presents with blurred vision, increased thirst",Diabetes
+Patient presents with shortness of breath,Hypertension
+Patient presents with sensitivity to light,Migraine
+Patient presents with vision changes,Migraine
+"Patient presents with blurred vision, frequent urination, fatigue",Diabetes
+"Patient presents with coughing, chest tightness, wheezing",Asthma
+"Patient presents with wheezing, chest tightness, coughing",Asthma
+"Patient presents with shortness of breath, coughing, chest tightness",Asthma
+"Patient presents with frequent urination, increased thirst, fatigue, blurred vision",Diabetes
+"Patient presents with shortness of breath, chest tightness, coughing",Asthma
+Patient presents with severe headache,Migraine
+"Patient presents with shortness of breath, high blood pressure, nosebleeds, headache",Hypertension
+"Patient presents with fatigue, blurred vision, increased thirst",Diabetes
+Patient presents with chest tightness,Asthma
+"Patient presents with shortness of breath, high blood pressure, nosebleeds, headache",Hypertension
+"Patient presents with shortness of breath, headache, high blood pressure, nosebleeds",Hypertension
+"Patient presents with severe headache, vision changes, nausea, sensitivity to light",Migraine
+Patient presents with nosebleeds,Hypertension
+Patient presents with wheezing,Asthma
+"Patient presents with severe headache, sensitivity to light, vision changes, nausea",Migraine
+"Patient presents with shortness of breath, wheezing, chest tightness",Asthma
+"Patient presents with fatigue, increased thirst",Diabetes
+"Patient presents with frequent urination, blurred vision",Diabetes
+"Patient presents with nosebleeds, shortness of breath",Hypertension
+"Patient presents with blurred vision, frequent urination, increased thirst, fatigue",Diabetes
+"Patient presents with high blood pressure, headache, nosebleeds",Hypertension
+"Patient presents with coughing, shortness of breath",Asthma
+Patient presents with sensitivity to light,Migraine
+Patient presents with severe headache,Migraine
+Patient presents with nosebleeds,Hypertension
+Patient presents with frequent urination,Diabetes
+"Patient presents with wheezing, shortness of breath",Asthma
+"Patient presents with coughing, shortness of breath, wheezing",Asthma
+Patient presents with vision changes,Migraine
+Patient presents with chest tightness,Asthma
+"Patient presents with fatigue, frequent urination, increased thirst, blurred vision",Diabetes
+"Patient presents with fatigue, increased thirst",Diabetes
+"Patient presents with blurred vision, fatigue, increased thirst, frequent urination",Diabetes
+Patient presents with increased thirst,Diabetes
+Patient presents with shortness of breath,Asthma
+"Patient presents with fatigue, blurred vision",Diabetes
+"Patient presents with shortness of breath, headache, nosebleeds",Hypertension
+"Patient presents with nosebleeds, shortness of breath",Hypertension
+"Patient presents with shortness of breath, high blood pressure, nosebleeds",Hypertension
+"Patient presents with nosebleeds, high blood pressure, shortness of breath",Hypertension
+"Patient presents with fatigue, increased thirst",Diabetes
+Patient presents with high blood pressure,Hypertension
+"Patient presents with coughing, shortness of breath, wheezing",Asthma
+"Patient presents with high blood pressure, headache, shortness of breath",Hypertension
+"Patient presents with high blood pressure, nosebleeds",Hypertension
+Patient presents with blurred vision,Diabetes
+"Patient presents with chest tightness, coughing, shortness of breath, wheezing",Asthma
+"Patient presents with coughing, shortness of breath",Asthma
+"Patient presents with frequent urination, fatigue, blurred vision, increased thirst",Diabetes
+"Patient presents with sensitivity to light, nausea",Migraine
+"Patient presents with blurred vision, frequent urination, fatigue, increased thirst",Diabetes
+"Patient presents with shortness of breath, nosebleeds, headache",Hypertension
+"Patient presents with blurred vision, fatigue, frequent urination",Diabetes
+Patient presents with fatigue,Diabetes
+"Patient presents with headache, shortness of breath",Hypertension
+"Patient presents with fatigue, frequent urination",Diabetes
+"Patient presents with vision changes, sensitivity to light",Migraine
+"Patient presents with increased thirst, blurred vision, frequent urination",Diabetes
+"Patient presents with shortness of breath, chest tightness, wheezing",Asthma
+"Patient presents with vision changes, nausea, sensitivity to light, severe headache",Migraine
+"Patient presents with high blood pressure, shortness of breath, headache, nosebleeds",Hypertension
+"Patient presents with coughing, shortness of breath, chest tightness",Asthma
+"Patient presents with chest tightness, wheezing",Asthma
+"Patient presents with increased thirst, fatigue, blurred vision",Diabetes
+"Patient presents with fatigue, increased thirst, blurred vision, frequent urination",Diabetes
+"Patient presents with shortness of breath, coughing, chest tightness",Asthma
+"Patient presents with shortness of breath, high blood pressure",Hypertension
+"Patient presents with nosebleeds, shortness of breath",Hypertension
+"Patient presents with chest tightness, shortness of breath",Asthma
+"Patient presents with nosebleeds, high blood pressure",Hypertension
+Patient presents with chest tightness,Asthma
+"Patient presents with nausea, vision changes",Migraine
+"Patient presents with wheezing, shortness of breath",Asthma
+"Patient presents with chest tightness, coughing, shortness of breath, wheezing",Asthma
+Patient presents with sensitivity to light,Migraine
+Patient presents with sensitivity to light,Migraine
+Patient presents with shortness of breath,Hypertension
+Patient presents with coughing,Asthma
+"Patient presents with blurred vision, frequent urination, increased thirst, fatigue",Diabetes
+"Patient presents with vision changes, sensitivity to light",Migraine
+"Patient presents with frequent urination, blurred vision, fatigue, increased thirst",Diabetes
+Patient presents with vision changes,Migraine
+"Patient presents with headache, shortness of breath, high blood pressure, nosebleeds",Hypertension
+"Patient presents with chest tightness, coughing",Asthma
+Patient presents with frequent urination,Diabetes
+"Patient presents with frequent urination, increased thirst",Diabetes
+"Patient presents with nosebleeds, headache, shortness of breath",Hypertension
+"Patient presents with nosebleeds, headache, high blood pressure, shortness of breath",Hypertension
+Patient presents with increased thirst,Diabetes
+"Patient presents with headache, shortness of breath",Hypertension
+"Patient presents with headache, high blood pressure, nosebleeds",Hypertension
+Patient presents with wheezing,Asthma
+"Patient presents with wheezing, chest tightness, coughing, shortness of breath",Asthma
+"Patient presents with coughing, chest tightness, wheezing",Asthma
+"Patient presents with wheezing, shortness of breath, coughing",Asthma
+"Patient presents with chest tightness, shortness of breath, wheezing, coughing",Asthma
+Patient presents with frequent urination,Diabetes
+"Patient presents with fatigue, blurred vision, increased thirst",Diabetes
+"Patient presents with shortness of breath, wheezing",Asthma
+"Patient presents with shortness of breath, coughing, chest tightness, wheezing",Asthma
+"Patient presents with coughing, wheezing, chest tightness",Asthma
+"Patient presents with nausea, severe headache, sensitivity to light, vision changes",Migraine
+Patient presents with increased thirst,Diabetes
+"Patient presents with chest tightness, coughing, shortness of breath",Asthma
+"Patient presents with nausea, severe headache",Migraine
+Patient presents with frequent urination,Diabetes
+"Patient presents with sensitivity to light, severe headache, vision changes, nausea",Migraine
+"Patient presents with sensitivity to light, nausea",Migraine
+"Patient presents with severe headache, vision changes",Migraine
+"Patient presents with chest tightness, wheezing, shortness of breath",Asthma
+"Patient presents with fatigue, blurred vision",Diabetes
+"Patient presents with increased thirst, blurred vision, fatigue, frequent urination",Diabetes
+Patient presents with frequent urination,Diabetes
+"Patient presents with severe headache, sensitivity to light, vision changes",Migraine
+"Patient presents with blurred vision, fatigue, increased thirst",Diabetes
+"Patient presents with fatigue, increased thirst, blurred vision, frequent urination",Diabetes
+"Patient presents with shortness of breath, high blood pressure, nosebleeds, headache",Hypertension
+"Patient presents with coughing, shortness of breath, wheezing, chest tightness",Asthma
+Patient presents with frequent urination,Diabetes
+Patient presents with shortness of breath,Hypertension
+"Patient presents with nosebleeds, high blood pressure, shortness of breath, headache",Hypertension
+"Patient presents with sensitivity to light, nausea",Migraine
+Patient presents with chest tightness,Asthma
+"Patient presents with coughing, chest tightness, wheezing, shortness of breath",Asthma
+"Patient presents with high blood pressure, shortness of breath, nosebleeds",Hypertension
+Patient presents with severe headache,Migraine
+Patient presents with frequent urination,Diabetes
+"Patient presents with wheezing, coughing, chest tightness, shortness of breath",Asthma
+"Patient presents with sensitivity to light, severe headache, nausea",Migraine
+"Patient presents with frequent urination, blurred vision, increased thirst, fatigue",Diabetes
+Patient presents with frequent urination,Diabetes
+"Patient presents with headache, shortness of breath, nosebleeds, high blood pressure",Hypertension
+"Patient presents with shortness of breath, headache, nosebleeds, high blood pressure",Hypertension
+Patient presents with fatigue,Diabetes
+"Patient presents with fatigue, frequent urination, increased thirst",Diabetes
+"Patient presents with shortness of breath, high blood pressure, nosebleeds",Hypertension
+"Patient presents with high blood pressure, shortness of breath, headache",Hypertension
+Patient presents with vision changes,Migraine
+"Patient presents with chest tightness, shortness of breath, wheezing, coughing",Asthma
+"Patient presents with increased thirst, frequent urination",Diabetes
+"Patient presents with nausea, vision changes",Migraine
+"Patient presents with vision changes, nausea",Migraine
+"Patient presents with blurred vision, frequent urination, increased thirst, fatigue",Diabetes
+"Patient presents with high blood pressure, shortness of breath, headache",Hypertension
+"Patient presents with shortness of breath, nosebleeds, headache, high blood pressure",Hypertension
+"Patient presents with sensitivity to light, nausea, severe headache, vision changes",Migraine
+"Patient presents with vision changes, nausea, severe headache",Migraine
+"Patient presents with wheezing, shortness of breath, chest tightness",Asthma
+"Patient presents with fatigue, increased thirst, blurred vision, frequent urination",Diabetes
+Patient presents with nosebleeds,Hypertension
+"Patient presents with blurred vision, increased thirst",Diabetes
+"Patient presents with severe headache, sensitivity to light",Migraine
+Patient presents with coughing,Asthma
+"Patient presents with increased thirst, blurred vision, frequent urination",Diabetes
+"Patient presents with headache, nosebleeds, high blood pressure, shortness of breath",Hypertension
+"Patient presents with fatigue, blurred vision, frequent urination, increased thirst",Diabetes
+"Patient presents with fatigue, frequent urination, blurred vision, increased thirst",Diabetes
+"Patient presents with increased thirst, fatigue, blurred vision",Diabetes
+"Patient presents with shortness of breath, wheezing, chest tightness",Asthma
+Patient presents with shortness of breath,Hypertension
+"Patient presents with fatigue, increased thirst, blurred vision, frequent urination",Diabetes
+Patient presents with nausea,Migraine
+"Patient presents with increased thirst, fatigue",Diabetes
+Patient presents with sensitivity to light,Migraine
+"Patient presents with coughing, wheezing",Asthma
+Patient presents with shortness of breath,Asthma
+"Patient presents with headache, shortness of breath, nosebleeds",Hypertension
+"Patient presents with wheezing, coughing, chest tightness",Asthma
+Patient presents with increased thirst,Diabetes
+"Patient presents with coughing, chest tightness",Asthma
+"Patient presents with fatigue, blurred vision",Diabetes
+"Patient presents with wheezing, chest tightness, coughing",Asthma
+"Patient presents with frequent urination, fatigue",Diabetes
+Patient presents with headache,Hypertension
+"Patient presents with nausea, vision changes, sensitivity to light",Migraine
+"Patient presents with severe headache, nausea, sensitivity to light",Migraine
+"Patient presents with wheezing, chest tightness, shortness of breath, coughing",Asthma
+Patient presents with nosebleeds,Hypertension
+"Patient presents with vision changes, sensitivity to light, nausea, severe headache",Migraine
+"Patient presents with blurred vision, increased thirst, fatigue",Diabetes
+Patient presents with vision changes,Migraine
+Patient presents with chest tightness,Asthma
+"Patient presents with headache, shortness of breath, high blood pressure",Hypertension
+"Patient presents with wheezing, chest tightness, coughing, shortness of breath",Asthma
+"Patient presents with sensitivity to light, severe headache",Migraine
+Patient presents with fatigue,Diabetes
+"Patient presents with chest tightness, coughing, shortness of breath, wheezing",Asthma
+Patient presents with increased thirst,Diabetes
+Patient presents with frequent urination,Diabetes
+"Patient presents with chest tightness, coughing, shortness of breath, wheezing",Asthma
+"Patient presents with wheezing, coughing, chest tightness",Asthma
+"Patient presents with vision changes, nausea, severe headache",Migraine
+"Patient presents with chest tightness, coughing, wheezing",Asthma
+"Patient presents with nosebleeds, headache",Hypertension
+"Patient presents with nosebleeds, high blood pressure",Hypertension
+Patient presents with frequent urination,Diabetes
+Patient presents with fatigue,Diabetes
+"Patient presents with vision changes, nausea, sensitivity to light",Migraine
+Patient presents with headache,Hypertension
+Patient presents with severe headache,Migraine
+"Patient presents with severe headache, sensitivity to light",Migraine
+"Patient presents with chest tightness, wheezing",Asthma
+"Patient presents with vision changes, nausea",Migraine
+"Patient presents with headache, nosebleeds, shortness of breath",Hypertension
+"Patient presents with coughing, wheezing, shortness of breath",Asthma
+"Patient presents with fatigue, frequent urination, blurred vision, increased thirst",Diabetes
+"Patient presents with severe headache, nausea, vision changes, sensitivity to light",Migraine
+"Patient presents with nausea, sensitivity to light, vision changes, severe headache",Migraine
+"Patient presents with blurred vision, increased thirst, fatigue, frequent urination",Diabetes
+"Patient presents with fatigue, blurred vision, frequent urination",Diabetes
+"Patient presents with frequent urination, increased thirst, blurred vision",Diabetes
+"Patient presents with vision changes, sensitivity to light, severe headache",Migraine
+"Patient presents with high blood pressure, shortness of breath, nosebleeds",Hypertension
+"Patient presents with shortness of breath, coughing, chest tightness",Asthma
+Patient presents with sensitivity to light,Migraine
+"Patient presents with frequent urination, increased thirst, fatigue",Diabetes
+"Patient presents with vision changes, severe headache",Migraine
+"Patient presents with nausea, sensitivity to light",Migraine
+Patient presents with fatigue,Diabetes
+Patient presents with sensitivity to light,Migraine
+"Patient presents with vision changes, nausea",Migraine
+Patient presents with high blood pressure,Hypertension
+Patient presents with wheezing,Asthma
+"Patient presents with vision changes, severe headache, sensitivity to light",Migraine
+Patient presents with sensitivity to light,Migraine
+"Patient presents with nausea, sensitivity to light, severe headache, vision changes",Migraine
+Patient presents with nausea,Migraine
+"Patient presents with blurred vision, frequent urination, fatigue",Diabetes
+"Patient presents with frequent urination, increased thirst",Diabetes
+"Patient presents with chest tightness, coughing, shortness of breath",Asthma
+"Patient presents with vision changes, nausea, severe headache, sensitivity to light",Migraine
+"Patient presents with nosebleeds, shortness of breath, high blood pressure, headache",Hypertension
+Patient presents with high blood pressure,Hypertension
+"Patient presents with coughing, wheezing, shortness of breath",Asthma
+"Patient presents with vision changes, sensitivity to light",Migraine
+"Patient presents with wheezing, shortness of breath, coughing",Asthma
+"Patient presents with shortness of breath, coughing, wheezing",Asthma
+Patient presents with frequent urination,Diabetes
+"Patient presents with sensitivity to light, vision changes, nausea, severe headache",Migraine
+"Patient presents with shortness of breath, high blood pressure, nosebleeds, headache",Hypertension
+"Patient presents with chest tightness, wheezing",Asthma
+"Patient presents with shortness of breath, headache",Hypertension
+Patient presents with frequent urination,Diabetes
+"Patient presents with headache, high blood pressure, nosebleeds",Hypertension
+Patient presents with sensitivity to light,Migraine
+"Patient presents with chest tightness, coughing",Asthma
+"Patient presents with coughing, chest tightness",Asthma
+"Patient presents with nausea, vision changes, sensitivity to light",Migraine
+"Patient presents with chest tightness, wheezing, coughing, shortness of breath",Asthma
+Patient presents with wheezing,Asthma
+"Patient presents with sensitivity to light, severe headache, nausea",Migraine
+"Patient presents with nausea, vision changes, sensitivity to light",Migraine
+"Patient presents with high blood pressure, shortness of breath",Hypertension
+"Patient presents with high blood pressure, headache, nosebleeds",Hypertension
+"Patient presents with sensitivity to light, nausea, vision changes, severe headache",Migraine
+"Patient presents with frequent urination, fatigue, blurred vision",Diabetes
+"Patient presents with blurred vision, fatigue, increased thirst, frequent urination",Diabetes
+Patient presents with vision changes,Migraine
+"Patient presents with shortness of breath, high blood pressure, headache, nosebleeds",Hypertension
+"Patient presents with fatigue, blurred vision, frequent urination",Diabetes
+"Patient presents with nausea, severe headache, vision changes, sensitivity to light",Migraine
+"Patient presents with coughing, chest tightness, shortness of breath",Asthma
+"Patient presents with sensitivity to light, nausea, vision changes",Migraine
+"Patient presents with headache, nosebleeds, shortness of breath, high blood pressure",Hypertension
+"Patient presents with chest tightness, shortness of breath, wheezing, coughing",Asthma
+Patient presents with increased thirst,Diabetes
+Patient presents with increased thirst,Diabetes
+"Patient presents with wheezing, coughing",Asthma
+Patient presents with shortness of breath,Asthma
+Patient presents with high blood pressure,Hypertension
+Patient presents with increased thirst,Diabetes
+"Patient presents with high blood pressure, headache, nosebleeds, shortness of breath",Hypertension
+"Patient presents with sensitivity to light, vision changes, severe headache, nausea",Migraine
+"Patient presents with severe headache, nausea, vision changes, sensitivity to light",Migraine
+"Patient presents with frequent urination, increased thirst, blurred vision, fatigue",Diabetes
+"Patient presents with frequent urination, blurred vision, fatigue",Diabetes
+"Patient presents with severe headache, sensitivity to light, nausea",Migraine
+"Patient presents with nosebleeds, headache, high blood pressure, shortness of breath",Hypertension
+Patient presents with shortness of breath,Asthma
+"Patient presents with headache, nosebleeds",Hypertension
+"Patient presents with shortness of breath, headache, high blood pressure",Hypertension
+Patient presents with blurred vision,Diabetes
+"Patient presents with severe headache, sensitivity to light, vision changes",Migraine
+"Patient presents with headache, nosebleeds, shortness of breath, high blood pressure",Hypertension
+"Patient presents with nausea, severe headache",Migraine
+"Patient presents with sensitivity to light, nausea, vision changes",Migraine
+Patient presents with shortness of breath,Asthma
+"Patient presents with blurred vision, frequent urination, increased thirst",Diabetes
+"Patient presents with frequent urination, increased thirst",Diabetes
+"Patient presents with shortness of breath, coughing",Asthma
+Patient presents with sensitivity to light,Migraine
+"Patient presents with headache, nosebleeds, high blood pressure",Hypertension
+Patient presents with high blood pressure,Hypertension
+"Patient presents with high blood pressure, headache, shortness of breath",Hypertension
+"Patient presents with coughing, shortness of breath",Asthma
+"Patient presents with frequent urination, fatigue, blurred vision, increased thirst",Diabetes
+Patient presents with sensitivity to light,Migraine
+"Patient presents with chest tightness, wheezing, shortness of breath, coughing",Asthma
+"Patient presents with coughing, shortness of breath, chest tightness",Asthma
+"Patient presents with coughing, chest tightness, shortness of breath",Asthma
+"Patient presents with shortness of breath, chest tightness, wheezing",Asthma
+"Patient presents with severe headache, vision changes, sensitivity to light, nausea",Migraine
+"Patient presents with frequent urination, fatigue, increased thirst, blurred vision",Diabetes
+"Patient presents with increased thirst, blurred vision, fatigue, frequent urination",Diabetes
+"Patient presents with sensitivity to light, nausea, severe headache, vision changes",Migraine
+"Patient presents with nausea, sensitivity to light, severe headache, vision changes",Migraine
+"Patient presents with shortness of breath, high blood pressure",Hypertension
+"Patient presents with shortness of breath, headache",Hypertension
+"Patient presents with frequent urination, fatigue, increased thirst, blurred vision",Diabetes
+"Patient presents with shortness of breath, high blood pressure, headache",Hypertension
+"Patient presents with shortness of breath, chest tightness, wheezing, coughing",Asthma
+"Patient presents with wheezing, chest tightness",Asthma
+"Patient presents with vision changes, sensitivity to light",Migraine
+"Patient presents with chest tightness, coughing, wheezing, shortness of breath",Asthma
+"Patient presents with high blood pressure, nosebleeds, headache, shortness of breath",Hypertension
+Patient presents with high blood pressure,Hypertension
+"Patient presents with sensitivity to light, nausea",Migraine
+Patient presents with nausea,Migraine
+"Patient presents with sensitivity to light, vision changes",Migraine
+"Patient presents with frequent urination, blurred vision, fatigue, increased thirst",Diabetes
+Patient presents with coughing,Asthma
+"Patient presents with shortness of breath, nosebleeds, headache, high blood pressure",Hypertension
+"Patient presents with coughing, shortness of breath",Asthma
+"Patient presents with increased thirst, blurred vision",Diabetes
+"Patient presents with sensitivity to light, severe headache, nausea, vision changes",Migraine
+"Patient presents with sensitivity to light, nausea, severe headache",Migraine
+"Patient presents with sensitivity to light, vision changes",Migraine
+"Patient presents with nosebleeds, headache, shortness of breath, high blood pressure",Hypertension
+"Patient presents with high blood pressure, nosebleeds, shortness of breath",Hypertension
+"Patient presents with chest tightness, wheezing",Asthma
+"Patient presents with severe headache, nausea, vision changes",Migraine
+"Patient presents with blurred vision, frequent urination",Diabetes
+"Patient presents with frequent urination, increased thirst",Diabetes
+"Patient presents with severe headache, vision changes",Migraine
+"Patient presents with chest tightness, wheezing, shortness of breath",Asthma
+Patient presents with vision changes,Migraine
+"Patient presents with high blood pressure, headache",Hypertension
+"Patient presents with coughing, wheezing, chest tightness",Asthma
+Patient presents with high blood pressure,Hypertension
+"Patient presents with severe headache, vision changes, nausea, sensitivity to light",Migraine
+"Patient presents with vision changes, nausea, severe headache, sensitivity to light",Migraine
+"Patient presents with high blood pressure, headache, shortness of breath",Hypertension
+Patient presents with coughing,Asthma
+"Patient presents with nausea, severe headache, vision changes",Migraine
+"Patient presents with frequent urination, fatigue",Diabetes
+"Patient presents with wheezing, chest tightness",Asthma
+Patient presents with nausea,Migraine
+Patient presents with shortness of breath,Hypertension
+"Patient presents with fatigue, blurred vision",Diabetes
+"Patient presents with chest tightness, coughing, wheezing",Asthma
+"Patient presents with severe headache, vision changes, sensitivity to light, nausea",Migraine
+"Patient presents with frequent urination, fatigue, blurred vision, increased thirst",Diabetes
+"Patient presents with frequent urination, blurred vision",Diabetes
+"Patient presents with chest tightness, coughing, shortness of breath, wheezing",Asthma
+"Patient presents with increased thirst, frequent urination, fatigue",Diabetes
+"Patient presents with chest tightness, coughing, wheezing",Asthma
+"Patient presents with chest tightness, shortness of breath, wheezing",Asthma
+"Patient presents with nausea, sensitivity to light",Migraine
+"Patient presents with headache, nosebleeds, shortness of breath, high blood pressure",Hypertension
+"Patient presents with shortness of breath, high blood pressure, nosebleeds",Hypertension
+Patient presents with nosebleeds,Hypertension
+"Patient presents with nosebleeds, shortness of breath, high blood pressure, headache",Hypertension
+Patient presents with severe headache,Migraine
+"Patient presents with frequent urination, increased thirst, blurred vision, fatigue",Diabetes
+Patient presents with sensitivity to light,Migraine
+"Patient presents with sensitivity to light, nausea, severe headache, vision changes",Migraine
+"Patient presents with severe headache, vision changes, nausea",Migraine
+"Patient presents with nosebleeds, shortness of breath, high blood pressure, headache",Hypertension
+Patient presents with vision changes,Migraine
+"Patient presents with shortness of breath, chest tightness, coughing",Asthma
+"Patient presents with frequent urination, increased thirst",Diabetes
+"Patient presents with nosebleeds, shortness of breath, headache, high blood pressure",Hypertension
+"Patient presents with nausea, sensitivity to light, severe headache",Migraine
+Patient presents with shortness of breath,Asthma
+"Patient presents with coughing, wheezing, shortness of breath, chest tightness",Asthma
+"Patient presents with shortness of breath, high blood pressure, headache",Hypertension
+Patient presents with blurred vision,Diabetes
+"Patient presents with wheezing, chest tightness",Asthma
+"Patient presents with blurred vision, increased thirst, fatigue",Diabetes
+"Patient presents with high blood pressure, shortness of breath",Hypertension
+Patient presents with shortness of breath,Hypertension
+"Patient presents with wheezing, shortness of breath, chest tightness",Asthma
+"Patient presents with fatigue, blurred vision",Diabetes
+"Patient presents with fatigue, blurred vision",Diabetes
+"Patient presents with increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"Patient presents with nosebleeds, high blood pressure, headache, shortness of breath",Hypertension
+Patient presents with increased thirst,Diabetes
+"Patient presents with nosebleeds, high blood pressure, shortness of breath, headache",Hypertension
+"Patient presents with blurred vision, fatigue, frequent urination, increased thirst",Diabetes
+"Patient presents with severe headache, sensitivity to light, vision changes",Migraine
+"Patient presents with vision changes, sensitivity to light",Migraine
+Patient presents with nosebleeds,Hypertension
+"Patient presents with fatigue, frequent urination",Diabetes
+"Patient presents with blurred vision, increased thirst, fatigue, frequent urination",Diabetes
+"Patient presents with high blood pressure, headache",Hypertension
+"Patient presents with coughing, chest tightness, shortness of breath",Asthma
+"Patient presents with headache, nosebleeds, shortness of breath",Hypertension
+"Patient presents with nosebleeds, headache",Hypertension
+"Patient presents with coughing, chest tightness, shortness of breath",Asthma
+"Patient presents with increased thirst, frequent urination, blurred vision",Diabetes
+Patient presents with fatigue,Diabetes
+"Patient presents with fatigue, blurred vision",Diabetes
+"Patient presents with sensitivity to light, nausea",Migraine
+Patient presents with nausea,Migraine
+Patient presents with shortness of breath,Asthma
+Patient presents with severe headache,Migraine
+Patient presents with increased thirst,Diabetes
+"Patient presents with high blood pressure, headache, shortness of breath",Hypertension
+"Patient presents with high blood pressure, shortness of breath, headache, nosebleeds",Hypertension
+"Patient presents with coughing, shortness of breath",Asthma
+"Patient presents with severe headache, vision changes, sensitivity to light, nausea",Migraine
+Patient presents with severe headache,Migraine
+Patient presents with frequent urination,Diabetes
+"Patient presents with shortness of breath, high blood pressure, headache, nosebleeds",Hypertension
+"Patient presents with nosebleeds, high blood pressure",Hypertension
+"Patient presents with vision changes, sensitivity to light, severe headache, nausea",Migraine
+Patient presents with severe headache,Migraine
+"Patient presents with vision changes, nausea",Migraine
+"Patient presents with nosebleeds, headache",Hypertension
+"Patient presents with vision changes, sensitivity to light, severe headache, nausea",Migraine
+Patient presents with shortness of breath,Asthma
+"Patient presents with shortness of breath, high blood pressure, headache, nosebleeds",Hypertension
+"Patient presents with blurred vision, increased thirst",Diabetes
+"Patient presents with fatigue, frequent urination, increased thirst, blurred vision",Diabetes
+"Patient presents with high blood pressure, shortness of breath, headache",Hypertension
+"Patient presents with sensitivity to light, severe headache",Migraine
+"Patient presents with blurred vision, increased thirst, fatigue, frequent urination",Diabetes
+"Patient presents with chest tightness, shortness of breath, coughing, wheezing",Asthma
+"Patient presents with chest tightness, shortness of breath",Asthma
+"Patient presents with shortness of breath, high blood pressure",Hypertension
+"Patient presents with increased thirst, blurred vision",Diabetes
+"Patient presents with shortness of breath, high blood pressure, headache",Hypertension
+"Patient presents with blurred vision, frequent urination, increased thirst, fatigue",Diabetes
+"Patient presents with wheezing, chest tightness",Asthma
+"Patient presents with blurred vision, fatigue, frequent urination",Diabetes
+Patient presents with blurred vision,Diabetes
+"Patient presents with sensitivity to light, nausea",Migraine
+Patient presents with fatigue,Diabetes
+"Patient presents with chest tightness, shortness of breath, wheezing, coughing",Asthma
+"Patient presents with coughing, shortness of breath, chest tightness, wheezing",Asthma
+"Patient presents with chest tightness, shortness of breath",Asthma
+Patient presents with nosebleeds,Hypertension
+Patient presents with nosebleeds,Hypertension
+Patient presents with chest tightness,Asthma
+"Patient presents with severe headache, sensitivity to light, vision changes, nausea",Migraine
+Patient presents with coughing,Asthma
+"Patient presents with nosebleeds, high blood pressure",Hypertension
+"Patient presents with nausea, severe headache, sensitivity to light",Migraine
+"Patient presents with frequent urination, increased thirst, blurred vision, fatigue",Diabetes
+"Patient presents with nosebleeds, high blood pressure, shortness of breath, headache",Hypertension
+"Patient presents with shortness of breath, chest tightness, coughing, wheezing",Asthma
+Patient presents with chest tightness,Asthma
+"Patient presents with coughing, wheezing, shortness of breath",Asthma
+"Patient presents with coughing, shortness of breath",Asthma
+"Patient presents with shortness of breath, wheezing, coughing",Asthma
+"Patient presents with vision changes, sensitivity to light",Migraine
+"Patient presents with frequent urination, fatigue, blurred vision, increased thirst",Diabetes
+"Patient presents with blurred vision, fatigue, increased thirst, frequent urination",Diabetes
+Patient presents with coughing,Asthma
+Patient presents with increased thirst,Diabetes
+Patient presents with vision changes,Migraine
+"Patient presents with wheezing, chest tightness",Asthma
+"Patient presents with increased thirst, fatigue",Diabetes
+Patient presents with nausea,Migraine
+"Patient presents with blurred vision, fatigue",Diabetes
+"Patient presents with increased thirst, fatigue, blurred vision",Diabetes
+Patient presents with shortness of breath,Asthma
+"Patient presents with shortness of breath, headache, nosebleeds, high blood pressure",Hypertension
+Patient presents with fatigue,Diabetes
+Patient presents with increased thirst,Diabetes
+Patient presents with nosebleeds,Hypertension
+"Patient presents with shortness of breath, chest tightness, wheezing",Asthma
+"Patient presents with nosebleeds, headache, high blood pressure",Hypertension
+Patient presents with sensitivity to light,Migraine
+"Patient presents with high blood pressure, nosebleeds, shortness of breath",Hypertension
+"Patient presents with blurred vision, frequent urination, fatigue",Diabetes
+"Patient presents with shortness of breath, high blood pressure, nosebleeds, headache",Hypertension
+"Patient presents with high blood pressure, headache",Hypertension
+Patient presents with chest tightness,Asthma
+"Patient presents with nosebleeds, headache",Hypertension
+"Patient presents with shortness of breath, high blood pressure, nosebleeds",Hypertension
+"Patient presents with severe headache, vision changes, sensitivity to light, nausea",Migraine
+"Patient presents with fatigue, increased thirst",Diabetes
+"Patient presents with fatigue, increased thirst, frequent urination, blurred vision",Diabetes
+Patient presents with frequent urination,Diabetes
+"Patient presents with nausea, sensitivity to light, severe headache",Migraine
+Patient presents with fatigue,Diabetes
+Patient presents with headache,Hypertension
+"Patient presents with wheezing, shortness of breath, coughing",Asthma
+"Patient presents with fatigue, frequent urination, increased thirst",Diabetes
+Patient presents with sensitivity to light,Migraine
+Patient presents with shortness of breath,Hypertension
+"Patient presents with shortness of breath, coughing",Asthma
+"Patient presents with coughing, wheezing",Asthma
+"Patient presents with frequent urination, fatigue",Diabetes
+Patient presents with shortness of breath,Asthma
+Patient presents with severe headache,Migraine
+"Patient presents with coughing, chest tightness, shortness of breath, wheezing",Asthma
+"Patient presents with headache, high blood pressure",Hypertension
+"Patient presents with increased thirst, fatigue, blurred vision",Diabetes
+"Patient presents with nausea, sensitivity to light, severe headache",Migraine
+"Patient presents with fatigue, frequent urination, blurred vision, increased thirst",Diabetes
+Patient presents with coughing,Asthma
+"Patient presents with shortness of breath, high blood pressure",Hypertension
+"Patient presents with shortness of breath, headache, high blood pressure",Hypertension
+Patient presents with nosebleeds,Hypertension
+"Patient presents with shortness of breath, nosebleeds",Hypertension
+"Patient presents with frequent urination, fatigue, increased thirst, blurred vision",Diabetes
+"Patient presents with high blood pressure, nosebleeds",Hypertension
+"Patient presents with sensitivity to light, severe headache",Migraine
+"Patient presents with shortness of breath, wheezing",Asthma
+"Patient presents with chest tightness, coughing",Asthma
+"Patient presents with headache, shortness of breath, high blood pressure, nosebleeds",Hypertension
+"Patient presents with high blood pressure, headache, nosebleeds",Hypertension
+"Patient presents with high blood pressure, headache, nosebleeds, shortness of breath",Hypertension
+"Patient presents with shortness of breath, chest tightness, wheezing",Asthma
+"Patient presents with fatigue, increased thirst, blurred vision, frequent urination",Diabetes
+Patient presents with nausea,Migraine
+"Patient presents with headache, shortness of breath, high blood pressure",Hypertension
+Patient presents with increased thirst,Diabetes
+"Patient presents with nosebleeds, headache",Hypertension
+"Patient presents with nausea, vision changes, severe headache, sensitivity to light",Migraine
+"Patient presents with increased thirst, blurred vision",Diabetes
+"Patient presents with sensitivity to light, severe headache, nausea",Migraine
+Patient presents with headache,Hypertension
+"Patient presents with vision changes, sensitivity to light, nausea",Migraine
+"Patient presents with shortness of breath, wheezing, coughing, chest tightness",Asthma
+"Patient presents with severe headache, vision changes, sensitivity to light",Migraine
+Patient presents with blurred vision,Diabetes
+Patient presents with shortness of breath,Hypertension
+Patient presents with shortness of breath,Asthma
+"Patient presents with high blood pressure, headache, nosebleeds",Hypertension
+"Patient presents with fatigue, increased thirst, blurred vision, frequent urination",Diabetes
+"Patient presents with nausea, vision changes, sensitivity to light, severe headache",Migraine
+"Patient presents with fatigue, blurred vision, increased thirst, frequent urination",Diabetes
+"Patient presents with frequent urination, blurred vision, fatigue",Diabetes
+"Patient presents with fatigue, increased thirst, blurred vision",Diabetes
+Patient presents with fatigue,Diabetes
+"Patient presents with wheezing, shortness of breath, chest tightness",Asthma
+Patient presents with headache,Hypertension
+"Patient presents with fatigue, increased thirst, blurred vision, frequent urination",Diabetes
+"Patient presents with nosebleeds, high blood pressure, headache, shortness of breath",Hypertension
+"Patient presents with shortness of breath, high blood pressure, nosebleeds, headache",Hypertension
+"Patient presents with sensitivity to light, vision changes",Migraine
+"Patient presents with nosebleeds, headache, high blood pressure",Hypertension
+Patient presents with wheezing,Asthma
+Patient presents with sensitivity to light,Migraine
+"Patient presents with vision changes, nausea, severe headache",Migraine
+Patient presents with fatigue,Diabetes
+"Patient presents with chest tightness, coughing",Asthma
+"Patient presents with frequent urination, fatigue",Diabetes
+Patient presents with frequent urination,Diabetes
+Patient presents with chest tightness,Asthma
+Patient presents with vision changes,Migraine
+"Patient presents with increased thirst, fatigue, frequent urination, blurred vision",Diabetes
+"Patient presents with shortness of breath, high blood pressure, headache, nosebleeds",Hypertension
+"Patient presents with nosebleeds, headache, high blood pressure, shortness of breath",Hypertension
+"Patient presents with sensitivity to light, vision changes, severe headache",Migraine
+"Patient presents with fatigue, increased thirst",Diabetes
+Patient presents with shortness of breath,Hypertension
+Patient presents with chest tightness,Asthma
+"Patient presents with sensitivity to light, nausea",Migraine
+"Patient presents with coughing, shortness of breath",Asthma
+Patient presents with fatigue,Diabetes
+Patient presents with increased thirst,Diabetes
+"Patient presents with blurred vision, frequent urination",Diabetes
+Patient presents with blurred vision,Diabetes
+"Patient presents with increased thirst, fatigue, frequent urination",Diabetes
+"Patient presents with shortness of breath, high blood pressure",Hypertension
+"Patient presents with high blood pressure, headache, shortness of breath, nosebleeds",Hypertension
+"Patient presents with shortness of breath, chest tightness, wheezing",Asthma
+"Patient presents with nausea, severe headache, vision changes",Migraine
+Patient presents with chest tightness,Asthma
+"Patient presents with nosebleeds, shortness of breath",Hypertension
+"Patient presents with wheezing, chest tightness",Asthma
+"Patient presents with fatigue, frequent urination, increased thirst, blurred vision",Diabetes
+"Patient presents with nosebleeds, shortness of breath, high blood pressure, headache",Hypertension
+"Patient presents with severe headache, sensitivity to light",Migraine
+"Patient presents with nosebleeds, headache, shortness of breath",Hypertension
+"Patient presents with severe headache, sensitivity to light, nausea",Migraine
+"Patient presents with headache, nosebleeds, high blood pressure",Hypertension
+"Patient presents with fatigue, increased thirst, blurred vision",Diabetes
+"Patient presents with frequent urination, increased thirst",Diabetes
+"Patient presents with increased thirst, fatigue",Diabetes
+"Patient presents with chest tightness, wheezing",Asthma
+"Patient presents with chest tightness, wheezing, coughing, shortness of breath",Asthma
+"Patient presents with shortness of breath, wheezing, chest tightness, coughing",Asthma
+"Patient presents with chest tightness, coughing, shortness of breath",Asthma
+"Patient presents with chest tightness, coughing",Asthma
+"Patient presents with increased thirst, frequent urination, blurred vision, fatigue",Diabetes
+Patient presents with headache,Hypertension
+Patient presents with nosebleeds,Hypertension
+"Patient presents with nausea, vision changes, severe headache, sensitivity to light",Migraine
+"Patient presents with severe headache, nausea, sensitivity to light, vision changes",Migraine
+Patient presents with fatigue,Diabetes
+"Patient presents with coughing, shortness of breath, chest tightness",Asthma
+Patient presents with severe headache,Migraine
+"Patient presents with nosebleeds, shortness of breath, headache, high blood pressure",Hypertension
+"Patient presents with shortness of breath, nosebleeds, high blood pressure",Hypertension
+"Patient presents with high blood pressure, headache",Hypertension
+"Patient presents with coughing, chest tightness, shortness of breath",Asthma
+"Patient presents with fatigue, blurred vision, frequent urination",Diabetes
+Patient presents with shortness of breath,Hypertension
+"Patient presents with high blood pressure, headache",Hypertension
+Patient presents with nausea,Migraine
+"Patient presents with shortness of breath, nosebleeds, high blood pressure",Hypertension
+"Patient presents with nausea, vision changes",Migraine
+"Patient presents with coughing, chest tightness",Asthma
+"Patient presents with headache, high blood pressure",Hypertension
+"Patient presents with vision changes, nausea",Migraine
+"Patient presents with high blood pressure, headache, shortness of breath, nosebleeds",Hypertension
+"Patient presents with shortness of breath, coughing",Asthma
+"Patient presents with shortness of breath, nosebleeds, high blood pressure, headache",Hypertension
+"Patient presents with nausea, sensitivity to light, vision changes",Migraine
+Patient presents with shortness of breath,Hypertension
+Patient presents with shortness of breath,Hypertension
+"Patient presents with shortness of breath, nosebleeds, high blood pressure, headache",Hypertension
+"Patient presents with fatigue, increased thirst, frequent urination, blurred vision",Diabetes
+"Patient presents with high blood pressure, headache, shortness of breath, nosebleeds",Hypertension
+"Patient presents with shortness of breath, wheezing, coughing, chest tightness",Asthma
+Patient presents with vision changes,Migraine
+"Patient presents with shortness of breath, nosebleeds, headache, high blood pressure",Hypertension
+Patient presents with blurred vision,Diabetes
+"Patient presents with chest tightness, wheezing",Asthma
+"Patient presents with high blood pressure, shortness of breath, headache, nosebleeds",Hypertension
+"Patient presents with sensitivity to light, nausea",Migraine
+"Patient presents with nausea, vision changes, severe headache",Migraine
+"Patient presents with chest tightness, coughing, wheezing",Asthma
+Patient presents with shortness of breath,Asthma
+Patient presents with high blood pressure,Hypertension
+Patient presents with high blood pressure,Hypertension
+"Patient presents with sensitivity to light, vision changes",Migraine
+Patient presents with blurred vision,Diabetes
+"Patient presents with blurred vision, frequent urination",Diabetes
+"Patient presents with sensitivity to light, nausea, severe headache, vision changes",Migraine
+"Patient presents with nosebleeds, high blood pressure, headache, shortness of breath",Hypertension
+"Patient presents with severe headache, vision changes",Migraine
+"Patient presents with frequent urination, blurred vision, fatigue, increased thirst",Diabetes
+"Patient presents with coughing, chest tightness, shortness of breath",Asthma
+Patient presents with vision changes,Migraine
+Patient presents with coughing,Asthma
+"Patient presents with blurred vision, fatigue, increased thirst, frequent urination",Diabetes
+"Patient presents with shortness of breath, headache",Hypertension
+"Patient presents with nausea, sensitivity to light",Migraine
+"Patient presents with vision changes, sensitivity to light, nausea",Migraine
+"Patient presents with vision changes, nausea, sensitivity to light",Migraine
+Patient presents with severe headache,Migraine
+"Patient presents with increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"Patient presents with shortness of breath, high blood pressure, headache, nosebleeds",Hypertension
+"Patient presents with coughing, wheezing, shortness of breath",Asthma
+"Patient presents with coughing, chest tightness, shortness of breath, wheezing",Asthma
+"Patient presents with wheezing, shortness of breath",Asthma
+"Patient presents with nausea, sensitivity to light",Migraine
+"Patient presents with headache, high blood pressure",Hypertension
+"Patient presents with fatigue, blurred vision, frequent urination, increased thirst",Diabetes
+"Patient presents with nausea, sensitivity to light, vision changes",Migraine
+Patient presents with nosebleeds,Hypertension
+"Patient presents with nausea, severe headache, vision changes",Migraine
+"Patient presents with high blood pressure, shortness of breath, nosebleeds",Hypertension
+"Patient presents with coughing, wheezing, shortness of breath",Asthma
+"Patient presents with increased thirst, fatigue, frequent urination, blurred vision",Diabetes
+"Patient presents with nosebleeds, high blood pressure, headache",Hypertension
+Patient presents with vision changes,Migraine
+"Patient presents with sensitivity to light, severe headache, vision changes, nausea",Migraine
+Patient presents with increased thirst,Diabetes
+"Patient presents with shortness of breath, wheezing",Asthma
+"Patient presents with severe headache, nausea",Migraine
+Patient presents with fatigue,Diabetes
+"Patient presents with headache, high blood pressure, shortness of breath",Hypertension
+"Patient presents with wheezing, coughing, chest tightness",Asthma
+"Patient presents with blurred vision, frequent urination, fatigue",Diabetes
+"Patient presents with blurred vision, increased thirst, fatigue",Diabetes
+"Patient presents with blurred vision, fatigue",Diabetes
+"Patient presents with wheezing, chest tightness",Asthma
+"Patient presents with coughing, chest tightness, wheezing",Asthma
+Patient presents with coughing,Asthma
+"Patient presents with nausea, vision changes, sensitivity to light, severe headache",Migraine
+Patient presents with coughing,Asthma
+"Patient presents with blurred vision, frequent urination",Diabetes
+"Patient presents with fatigue, blurred vision, increased thirst, frequent urination",Diabetes
+"Patient presents with severe headache, vision changes",Migraine
+"Patient presents with fatigue, frequent urination",Diabetes
+"Patient presents with nausea, vision changes",Migraine
+Patient presents with sensitivity to light,Migraine
+Patient presents with nausea,Migraine
+"Patient presents with shortness of breath, nosebleeds, headache",Hypertension
+"Patient presents with nosebleeds, shortness of breath, high blood pressure, headache",Hypertension
+"Patient presents with vision changes, sensitivity to light, nausea, severe headache",Migraine
+"Patient presents with nausea, severe headache",Migraine
+"Patient presents with shortness of breath, high blood pressure, nosebleeds, headache",Hypertension
+"Patient presents with increased thirst, frequent urination, blurred vision",Diabetes
+Patient presents with severe headache,Migraine
+"Patient presents with nausea, sensitivity to light, severe headache, vision changes",Migraine
+"Patient presents with blurred vision, fatigue, increased thirst",Diabetes
+Patient presents with severe headache,Migraine
+"Patient presents with wheezing, chest tightness, shortness of breath, coughing",Asthma
+"Patient presents with nausea, vision changes, severe headache, sensitivity to light",Migraine
+"Patient presents with headache, shortness of breath, nosebleeds",Hypertension
+"Patient presents with frequent urination, fatigue, increased thirst",Diabetes
+"Patient presents with headache, high blood pressure",Hypertension
+"Patient presents with sensitivity to light, nausea, vision changes, severe headache",Migraine
+"Patient presents with frequent urination, blurred vision, fatigue",Diabetes
+"Patient presents with frequent urination, fatigue, blurred vision, increased thirst",Diabetes
+"Patient presents with increased thirst, frequent urination, blurred vision",Diabetes
+"Patient presents with increased thirst, frequent urination",Diabetes
+"Patient presents with high blood pressure, shortness of breath, nosebleeds, headache",Hypertension
+"Patient presents with shortness of breath, nosebleeds",Hypertension
+"Patient presents with blurred vision, increased thirst",Diabetes
+"Patient presents with wheezing, coughing, chest tightness",Asthma
+"Patient presents with shortness of breath, chest tightness, coughing",Asthma
+Patient presents with nosebleeds,Hypertension
+"Patient presents with shortness of breath, high blood pressure",Hypertension
+"Patient presents with nosebleeds, high blood pressure",Hypertension
+Patient presents with headache,Hypertension
+Patient presents with frequent urination,Diabetes
+"Patient presents with severe headache, vision changes",Migraine
+Patient presents with nausea,Migraine
+"Patient presents with sensitivity to light, vision changes, severe headache, nausea",Migraine
+"Patient presents with blurred vision, frequent urination, fatigue",Diabetes
+"Patient presents with nosebleeds, headache, shortness of breath",Hypertension
+Patient presents with shortness of breath,Asthma
+"Patient presents with increased thirst, blurred vision, fatigue",Diabetes
+"Patient presents with increased thirst, frequent urination",Diabetes
+"Patient presents with increased thirst, fatigue, frequent urination",Diabetes
+"Patient presents with wheezing, shortness of breath, coughing",Asthma
+"Patient presents with vision changes, nausea, severe headache, sensitivity to light",Migraine
+"Patient presents with blurred vision, frequent urination",Diabetes
+"Patient presents with coughing, shortness of breath",Asthma
+"Patient presents with nosebleeds, high blood pressure, headache, shortness of breath",Hypertension
+"Patient presents with shortness of breath, wheezing, coughing, chest tightness",Asthma
+"Patient presents with blurred vision, fatigue, increased thirst",Diabetes
+"Patient presents with headache, high blood pressure, nosebleeds, shortness of breath",Hypertension
+"Patient presents with chest tightness, coughing",Asthma
+"Patient presents with vision changes, severe headache",Migraine
+Patient presents with sensitivity to light,Migraine
+Patient presents with chest tightness,Asthma
+"Patient presents with chest tightness, shortness of breath",Asthma
+Patient presents with frequent urination,Diabetes
+Patient presents with fatigue,Diabetes
+"Patient presents with blurred vision, increased thirst",Diabetes
+"Patient presents with vision changes, sensitivity to light, severe headache, nausea",Migraine
+"Patient presents with nausea, vision changes, sensitivity to light, severe headache",Migraine
+"Patient presents with increased thirst, fatigue, frequent urination, blurred vision",Diabetes
+"Patient presents with frequent urination, fatigue",Diabetes
+"Patient presents with blurred vision, increased thirst, frequent urination, fatigue",Diabetes
+"Patient presents with nosebleeds, headache, high blood pressure, shortness of breath",Hypertension
+"Patient presents with chest tightness, wheezing, shortness of breath, coughing",Asthma
+"Patient presents with shortness of breath, coughing",Asthma
+"Patient presents with frequent urination, fatigue",Diabetes
+"Patient presents with sensitivity to light, vision changes",Migraine
+Patient presents with shortness of breath,Hypertension
+Patient presents with blurred vision,Diabetes
+"Patient presents with nausea, vision changes",Migraine
+"Patient presents with high blood pressure, shortness of breath",Hypertension
+"Patient presents with blurred vision, increased thirst",Diabetes
+"Patient presents with increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"Patient presents with nosebleeds, shortness of breath, headache, high blood pressure",Hypertension
+"Patient presents with shortness of breath, coughing, wheezing, chest tightness",Asthma
+"Patient presents with chest tightness, wheezing, coughing",Asthma
+"Patient presents with blurred vision, increased thirst, frequent urination",Diabetes
+Patient presents with severe headache,Migraine
+"Patient presents with nosebleeds, headache, shortness of breath",Hypertension
+"Patient presents with headache, nosebleeds, high blood pressure, shortness of breath",Hypertension
+"Patient presents with frequent urination, fatigue",Diabetes
+"Patient presents with coughing, shortness of breath, wheezing",Asthma
+"Patient presents with severe headache, nausea",Migraine
+"Patient presents with frequent urination, blurred vision, increased thirst, fatigue",Diabetes
+"Patient presents with blurred vision, fatigue, increased thirst, frequent urination",Diabetes
+"Patient presents with headache, high blood pressure, nosebleeds",Hypertension
+"Patient presents with headache, high blood pressure",Hypertension
+"Patient presents with coughing, chest tightness, wheezing",Asthma
+"Patient presents with high blood pressure, shortness of breath",Hypertension
+Patient presents with high blood pressure,Hypertension
+"Patient presents with frequent urination, increased thirst, blurred vision",Diabetes
+"Patient presents with chest tightness, shortness of breath",Asthma
+"Patient presents with nosebleeds, headache, high blood pressure",Hypertension
+"Patient presents with shortness of breath, headache",Hypertension
+Patient presents with vision changes,Migraine
+"Patient presents with nosebleeds, headache",Hypertension
+"Patient presents with blurred vision, increased thirst, frequent urination, fatigue",Diabetes
+"Patient presents with blurred vision, frequent urination",Diabetes
+"Patient presents with nosebleeds, high blood pressure, shortness of breath",Hypertension
+Patient presents with fatigue,Diabetes
+"Patient presents with nosebleeds, shortness of breath",Hypertension
+Patient presents with shortness of breath,Hypertension
+"Patient presents with shortness of breath, high blood pressure, nosebleeds",Hypertension
+Patient presents with high blood pressure,Hypertension
+"Patient presents with headache, shortness of breath, high blood pressure, nosebleeds",Hypertension
+"Patient presents with wheezing, coughing",Asthma
+Patient presents with severe headache,Migraine
+"Patient presents with fatigue, increased thirst, blurred vision",Diabetes
+Patient presents with severe headache,Migraine
+"Patient presents with nausea, vision changes",Migraine
+"Patient presents with shortness of breath, wheezing, coughing",Asthma
+"Patient presents with wheezing, shortness of breath, chest tightness, coughing",Asthma
+Patient presents with severe headache,Migraine
+"Patient presents with headache, shortness of breath, nosebleeds",Hypertension
+"Patient presents with increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"Patient presents with nosebleeds, high blood pressure, headache",Hypertension
+"Patient presents with nausea, severe headache",Migraine
+"Patient presents with vision changes, severe headache, nausea",Migraine
+"Patient presents with headache, nosebleeds, high blood pressure, shortness of breath",Hypertension
+"Patient presents with coughing, wheezing, chest tightness",Asthma
+"Patient presents with increased thirst, fatigue, frequent urination",Diabetes
+Patient presents with fatigue,Diabetes
+"Patient presents with shortness of breath, chest tightness, wheezing, coughing",Asthma
+"Patient presents with shortness of breath, wheezing, coughing",Asthma
+"Patient presents with high blood pressure, shortness of breath",Hypertension
+"Patient presents with chest tightness, shortness of breath",Asthma
+"Patient presents with coughing, chest tightness, shortness of breath",Asthma
+"Patient presents with severe headache, vision changes, sensitivity to light, nausea",Migraine
+"Patient presents with frequent urination, blurred vision, increased thirst, fatigue",Diabetes
+Patient presents with fatigue,Diabetes
+"Patient presents with fatigue, increased thirst, frequent urination, blurred vision",Diabetes
+"Patient presents with headache, high blood pressure",Hypertension
+"Patient presents with high blood pressure, shortness of breath, nosebleeds, headache",Hypertension
+"Patient presents with shortness of breath, headache, nosebleeds, high blood pressure",Hypertension
+"Patient presents with nausea, vision changes",Migraine
+"Patient presents with headache, high blood pressure, nosebleeds",Hypertension
+"Patient presents with wheezing, coughing, shortness of breath",Asthma
+"Patient presents with severe headache, vision changes, sensitivity to light, nausea",Migraine
+"Patient presents with coughing, shortness of breath, chest tightness",Asthma
+"Patient presents with high blood pressure, nosebleeds",Hypertension
+"Patient presents with wheezing, coughing",Asthma
+"Patient presents with frequent urination, blurred vision",Diabetes
+"Patient presents with shortness of breath, headache",Hypertension
+"Patient presents with high blood pressure, shortness of breath, headache, nosebleeds",Hypertension
+"Patient presents with vision changes, sensitivity to light",Migraine
+"Patient presents with chest tightness, shortness of breath, coughing",Asthma
+"Patient presents with shortness of breath, headache, high blood pressure",Hypertension
+"Patient presents with severe headache, nausea, vision changes, sensitivity to light",Migraine
+"Patient presents with frequent urination, fatigue, increased thirst",Diabetes
+"Patient presents with wheezing, coughing, shortness of breath",Asthma
+Patient presents with nosebleeds,Hypertension
+"Patient presents with wheezing, chest tightness",Asthma
+"Patient presents with high blood pressure, headache",Hypertension
+"Patient presents with severe headache, nausea, vision changes, sensitivity to light",Migraine
+"Patient presents with nausea, sensitivity to light",Migraine
+"Patient presents with frequent urination, blurred vision, increased thirst, fatigue",Diabetes
+"Patient presents with nausea, sensitivity to light",Migraine
+"Patient presents with frequent urination, blurred vision, increased thirst, fatigue",Diabetes
+"Patient presents with fatigue, blurred vision, increased thirst, frequent urination",Diabetes
+"Patient presents with severe headache, sensitivity to light, nausea",Migraine
+"Patient presents with shortness of breath, headache",Hypertension
+Patient presents with frequent urination,Diabetes
+"Patient presents with shortness of breath, headache",Hypertension
+"Patient presents with blurred vision, frequent urination",Diabetes
+"Patient presents with wheezing, coughing",Asthma
+"Patient presents with blurred vision, frequent urination, increased thirst, fatigue",Diabetes
+"Patient presents with shortness of breath, headache, high blood pressure, nosebleeds",Hypertension
+"Patient presents with blurred vision, fatigue",Diabetes
+"Patient presents with nosebleeds, high blood pressure, shortness of breath",Hypertension
+"Patient presents with headache, high blood pressure, nosebleeds",Hypertension
+"Patient presents with nosebleeds, headache",Hypertension
+"Patient presents with chest tightness, shortness of breath, wheezing, coughing",Asthma
+"Patient presents with nausea, severe headache",Migraine
+"Patient presents with blurred vision, frequent urination, increased thirst",Diabetes
+Patient presents with vision changes,Migraine
+"Patient presents with shortness of breath, nosebleeds, headache",Hypertension
+"Patient presents with severe headache, nausea",Migraine
+"Patient presents with shortness of breath, coughing, chest tightness",Asthma
+Patient presents with shortness of breath,Hypertension
+Patient presents with nosebleeds,Hypertension
+Patient presents with nosebleeds,Hypertension
+"Patient presents with headache, nosebleeds, high blood pressure",Hypertension
+Patient presents with severe headache,Migraine
+"Patient presents with vision changes, nausea, severe headache",Migraine
+"Patient presents with chest tightness, wheezing",Asthma
+"Patient presents with headache, high blood pressure",Hypertension
+"Patient presents with vision changes, nausea, severe headache",Migraine
+"Patient presents with increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"Patient presents with sensitivity to light, nausea, vision changes, severe headache",Migraine
+Patient presents with fatigue,Diabetes
+"Patient presents with frequent urination, increased thirst",Diabetes
+"Patient presents with chest tightness, coughing, wheezing",Asthma
+"Patient presents with shortness of breath, high blood pressure, headache, nosebleeds",Hypertension
+"Patient presents with shortness of breath, chest tightness",Asthma
+"Patient presents with fatigue, frequent urination, increased thirst, blurred vision",Diabetes
+"Patient presents with frequent urination, fatigue, blurred vision",Diabetes
+"Patient presents with sensitivity to light, severe headache, nausea, vision changes",Migraine
+"Patient presents with headache, nosebleeds",Hypertension
+"Patient presents with fatigue, blurred vision, frequent urination, increased thirst",Diabetes
+"Patient presents with blurred vision, increased thirst",Diabetes
+"Patient presents with coughing, wheezing, chest tightness",Asthma
+"Patient presents with sensitivity to light, nausea, severe headache, vision changes",Migraine
+"Patient presents with vision changes, nausea",Migraine
+"Patient presents with wheezing, coughing",Asthma
+"Patient presents with shortness of breath, coughing, wheezing, chest tightness",Asthma
+"Patient presents with high blood pressure, nosebleeds, shortness of breath, headache",Hypertension
+"Patient presents with wheezing, coughing",Asthma
+"Patient presents with vision changes, sensitivity to light, nausea, severe headache",Migraine
+"Patient presents with increased thirst, frequent urination, blurred vision",Diabetes
+"Patient presents with shortness of breath, chest tightness, coughing",Asthma
+Patient presents with nausea,Migraine
+"Patient presents with nausea, sensitivity to light",Migraine
+"Patient presents with wheezing, shortness of breath",Asthma
+"Patient presents with chest tightness, coughing",Asthma
+"Patient presents with shortness of breath, wheezing, coughing",Asthma
+"Patient presents with high blood pressure, shortness of breath, nosebleeds",Hypertension
+"Patient presents with sensitivity to light, nausea, severe headache, vision changes",Migraine
+"Patient presents with nausea, severe headache",Migraine
+Patient presents with blurred vision,Diabetes
+"Patient presents with fatigue, frequent urination, blurred vision",Diabetes
+"Patient presents with chest tightness, coughing",Asthma
+"Patient presents with frequent urination, increased thirst, blurred vision",Diabetes
+"Patient presents with coughing, chest tightness",Asthma
+Patient presents with nosebleeds,Hypertension
+Patient presents with coughing,Asthma
+Patient presents with wheezing,Asthma
+"Patient presents with sensitivity to light, vision changes, nausea",Migraine
+"Patient presents with shortness of breath, headache, nosebleeds",Hypertension
+Patient presents with frequent urination,Diabetes
+"Patient presents with high blood pressure, shortness of breath",Hypertension
+"Patient presents with severe headache, nausea, vision changes, sensitivity to light",Migraine
+"Patient presents with fatigue, increased thirst",Diabetes
+"Patient presents with nausea, sensitivity to light, vision changes",Migraine
+Patient presents with shortness of breath,Asthma
+Patient presents with frequent urination,Diabetes
+"Patient presents with shortness of breath, coughing, chest tightness",Asthma
+Patient presents with chest tightness,Asthma
+Patient presents with headache,Hypertension
+"Patient presents with vision changes, severe headache, sensitivity to light",Migraine
+Patient presents with coughing,Asthma
+"Patient presents with shortness of breath, high blood pressure",Hypertension
+Patient presents with frequent urination,Diabetes
+"Patient presents with increased thirst, frequent urination, fatigue",Diabetes
+"Patient presents with coughing, shortness of breath",Asthma
+"Patient presents with nausea, sensitivity to light, vision changes, severe headache",Migraine
+"Patient presents with shortness of breath, high blood pressure",Hypertension
+"Patient presents with wheezing, coughing, chest tightness, shortness of breath",Asthma
+"Patient presents with blurred vision, increased thirst, frequent urination, fatigue",Diabetes
+"Patient presents with severe headache, vision changes, sensitivity to light, nausea",Migraine
+"Patient presents with shortness of breath, nosebleeds, headache, high blood pressure",Hypertension
+"Patient presents with increased thirst, fatigue, frequent urination, blurred vision",Diabetes
+"Patient presents with increased thirst, fatigue, frequent urination",Diabetes
+Patient presents with headache,Hypertension
+"Patient presents with increased thirst, fatigue",Diabetes
+"Patient presents with chest tightness, coughing, shortness of breath, wheezing",Asthma
+"Patient presents with coughing, shortness of breath",Asthma
+Patient presents with shortness of breath,Hypertension
+Patient presents with chest tightness,Asthma
+Patient presents with coughing,Asthma
+"Patient presents with fatigue, blurred vision, increased thirst, frequent urination",Diabetes
+Patient presents with blurred vision,Diabetes
+"Patient presents with coughing, chest tightness, wheezing",Asthma
+Patient presents with shortness of breath,Hypertension
+"Patient presents with vision changes, severe headache",Migraine
+"Patient presents with high blood pressure, headache, nosebleeds",Hypertension
+"Patient presents with coughing, wheezing, chest tightness, shortness of breath",Asthma
+"Patient presents with high blood pressure, nosebleeds, headache, shortness of breath",Hypertension
+"Patient presents with nausea, sensitivity to light, severe headache",Migraine
+Patient presents with coughing,Asthma
+Patient presents with headache,Hypertension
+"Patient presents with headache, nosebleeds, shortness of breath",Hypertension
+"Patient presents with severe headache, vision changes, nausea",Migraine
+"Patient presents with blurred vision, increased thirst, frequent urination, fatigue",Diabetes
+"Patient presents with shortness of breath, coughing",Asthma
+Patient presents with blurred vision,Diabetes
+Patient presents with sensitivity to light,Migraine
+Patient presents with nausea,Migraine
+"Patient presents with vision changes, nausea",Migraine
+"Patient presents with blurred vision, increased thirst",Diabetes
+Patient presents with wheezing,Asthma
+Patient presents with shortness of breath,Asthma
+Patient presents with headache,Hypertension
+Patient presents with nausea,Migraine
+"Patient presents with chest tightness, wheezing, shortness of breath",Asthma
+"Patient presents with fatigue, increased thirst",Diabetes
+"Patient presents with increased thirst, fatigue",Diabetes
+"Patient presents with blurred vision, frequent urination, fatigue",Diabetes
