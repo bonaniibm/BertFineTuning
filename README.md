@@ -18,9 +18,6 @@ git clone https://github.com/bonaniibm/BertFineTuning.git
 pip install -r requirements.txt
 ```
 
-## Usage
-
-To fine-tune the BERT model on your specific task, follow the instructions in the `examples` directory. Each example contains a separate script for a different NLP task.
 
 ## Contributing
 
